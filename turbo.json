@@ -11,6 +11,9 @@
         "dist/**"
       ]
     },
+    "lint-staged": {
+      "cache": false
+    },
     "prebuild": {},
     "lint": {},
     "type-check": {}
